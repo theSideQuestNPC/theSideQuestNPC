@@ -4,21 +4,32 @@
 
 <br />
 
-<a href="https://discord.gg/D9HEZ3w9"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0a" alt="Discord" /></a>
-<a href="https://tiktok.com/@sidequest.npc"><img src="https://img.shields.io/badge/TikTok-@sidequest.npc-ff0050?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0a0a0a" alt="TikTok" /></a>
-<a href="https://github.com/theSideQuestNPC?tab=followers"><img src="https://img.shields.io/github/followers/theSideQuestNPC?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=e50914" alt="Followers" /></a>
+<a href="https://discord.gg/D9HEZ3w9"><img src="https://img.shields.io/badge/Discord-Join-ffffff?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0a" alt="Discord" /></a>
+<a href="https://tiktok.com/@sidequest.npc"><img src="https://img.shields.io/badge/TikTok-@sidequest.npc-ffffff?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0a0a0a" alt="TikTok" /></a>
+<a href="https://watchwave.pro"><img src="https://img.shields.io/badge/WatchWave-watchwave.pro-ffffff?style=for-the-badge&labelColor=0a0a0a" alt="WatchWave" /></a>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
 </div>
 
+<img src="assets/about.svg" width="100%" alt="About me" />
+<img src="assets/about-card.svg" width="100%" alt="Self-taught developer from Addis Ababa, Ethiopia. Building the best ecosystem of apps with the best UI and design. I use AI the way it is supposed to be used. Bonus: I fw customization." />
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<img src="assets/built.svg" width="100%" alt="What I built" />
+
+<div align="center">
+<br />
+<a href="https://watchwave.pro"><img width="49%" src="assets/built-watchwave.svg" alt="WatchWave, live at watchwave.pro" /></a>
+<img width="49%" src="assets/built-library.svg" alt="School online library" />
+<br /><br />
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
 <img src="assets/quest.svg" width="100%" alt="Quest Log" />
 <img src="assets/cards.svg" width="100%" alt="Current quests" />
-
-<br />
-
-> There's a huge difference between a regular AI user and a software engineer using AI.
-> One copy-pastes prompts and prays it runs. The other knows how to fix the broken code it spits out.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -31,10 +42,8 @@
 
 <div align="center">
 <br />
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=theSideQuestNPC&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=1f1f27&border_radius=0&bg_color=0b0b10&title_color=ff3b5c&icon_color=ff3b5c&text_color=c9d1d9&ring_color=ff3b5c" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theSideQuestNPC&layout=compact&langs_count=6&hide_border=false&border_color=1f1f27&border_radius=0&bg_color=0b0b10&title_color=ff3b5c&text_color=c9d1d9" alt="Top languages" />
-<br />
-<img width="100%" src="https://streak-stats.demolab.com/?user=theSideQuestNPC&hide_border=false&border_radius=0&background=0b0b10&stroke=1f1f27&border=1f1f27&ring=ff3b5c&fire=ff3b5c&currStreakNum=f5f5f7&sideNums=f5f5f7&currStreakLabel=ff3b5c&sideLabels=9ca3af&dates=6b7280" alt="Streak" />
+<img width="49%" src="assets/generated/stats.svg" alt="GitHub stats" />
+<img width="49%" src="assets/generated/langs.svg" alt="Top languages" />
 <br /><br />
 </div>
 
@@ -44,15 +53,14 @@
 
 <div align="center">
 <br />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theSideQuestNPC/theSideQuestNPC/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theSideQuestNPC/theSideQuestNPC/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/theSideQuestNPC/theSideQuestNPC/output/github-snake-dark.svg" width="100%" />
-</picture>
-<br /><br />
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=theSideQuestNPC&bg_color=0b0b10&color=c9d1d9&line=ff3b5c&point=ffffff&area=true&area_color=ff3b5c&hide_border=true&radius=0" alt="Activity graph" />
+<img width="100%" src="assets/generated/heatmap.svg" alt="Contribution heatmap" />
 <br /><br />
 </div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<img src="assets/dino.svg" width="100%" alt="DINO RUN" />
+<img src="assets/dino-game.svg" width="100%" alt="A pixel dino that plays by itself, jumping over cacti in a loop" />
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -60,8 +68,5 @@
 
 <div align="center">
 <br />
-<a href="https://discord.gg/D9HEZ3w9"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0a" alt="Discord" /></a>
-<a href="https://tiktok.com/@sidequest.npc"><img src="https://img.shields.io/badge/TikTok-@sidequest.npc-ff0050?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0a0a0a" alt="TikTok" /></a>
-<br /><br />
 <img src="assets/footer.svg" width="100%" alt="Press start to collab" />
 </div>
