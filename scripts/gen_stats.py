@@ -4,7 +4,7 @@ import os, json, random, datetime, urllib.request
 
 USER = os.environ.get('USERNAME') or os.environ.get('GITHUB_REPOSITORY_OWNER') or 'theSideQuestNPC'
 TOKEN = os.environ.get('GITHUB_TOKEN', '')
-OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'assets', 'generated')
+OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'pixel-bw', 'generated')
 os.makedirs(OUT, exist_ok=True)
 
 ACC, ACC2, DARK, PALE = '#ffffff', '#9a9a9a', '#333333', '#e5e5e5'
